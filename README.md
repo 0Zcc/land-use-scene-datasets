@@ -16,11 +16,11 @@ You can [click here](https://drive.google.com/drive/folders/1cjPkFuqMti1yf_q2-4E
 |Spatial resolution(m) | 0.8 | 0.8 | 0.3 | 0.65|
 |Scene size (pixels) | 300x300|300x300|600x600|300x300|
 |Residential (samples) | 200 | 400 | 723 | 100|
-Industrial and warehouses|156|227|501|100|
-Commercial|144|128|724|67|
-Transportation |171 | 250 | 600 | 100|
-Water    | 143 | 104 | 384 | 48|
-Green spaceand entertainment | 186|191|387|53|
+|Industrial and warehouses|156|227|501|100|
+|Commercial|144|128|724|67|
+|Transportation |171 | 250 | 600 | 100|
+|Water    | 143 | 104 | 384 | 48|
+|Green spaceand entertainment | 186|191|387|53|
 
 ## 2. 土地利用场景图片示例
 下图展示了该数据集的示例图片。
