@@ -22,6 +22,11 @@ You can [click here](https://drive.google.com/drive/folders/1cjPkFuqMti1yf_q2-4E
 |Water    | 143 | 104 | 384 | 48|
 |Green spaceand entertainment | 186|191|387|53|
 
+|  表头   | 表头  |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
+
 ## 2. 土地利用场景图片示例
 下图展示了该数据集的示例图片。
 
