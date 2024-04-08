@@ -7,7 +7,7 @@
 We provide a set of urban land use scene classification datasets, which includes sample land use scene classification data from four cities in China, and can be used for urban land use classification studies, especially cross-domain classification studies.
 You can [click here](https://drive.google.com/drive/folders/1cjPkFuqMti1yf_q2-4Evps14SmNfapGi?usp=sharing) to get the datasets.
 
-## 1. Dataset Details
+## 1. Datasets Details
 The attribute information of this datasets is shown in the table below:
 
 |        | Fuzhou | Quanzhou | Zhengzhou | Wuhan |
