@@ -10,9 +10,17 @@ You can [click here](https://drive.google.com/drive/folders/1cjPkFuqMti1yf_q2-4E
 ## 1. 数据集详细信息
 该数据集的属性信息如下表所示：
 
-|Fuzhou|Quanzhou|Zhengzhou|Wuhan|
-|------|-----|---|---|---|
+|        | Fuzhou | Quanzhou | Zhengzhou | Wuhan |
+| ------ | ------ | -------- | ----------| ----- |
 |Sensors|GF-2|GF-7|WorldView|Pléiades|
+|Spatial resolution(m) | 0.8 | 0.8 | 0.3 | 0.65|
+|Scene size (pixels) | 300x300|300x300|600x600|300x300|
+|Residential (samples) | 200 | 400 | 723 | 100|
+|Industrial and warehouses|156|227|501|100|
+|Commercial|144|128|724|67|
+|Transportation |171 | 250 | 600 | 100|
+|Water    | 143 | 104 | 384 | 48|
+|Green spaceand entertainment | 186|191|387|53|
 
 
 |  表头   | 表头  |
