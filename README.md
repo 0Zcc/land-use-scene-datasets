@@ -24,7 +24,7 @@ The attribute information of this datasets is shown in the table below:
 
 
 ## 2. Examples of Land Use Scene Images
-![Examples](./image/examples.png)
+![Examples](./examples.png)
 
 ## 3. 数据集文件树
 
