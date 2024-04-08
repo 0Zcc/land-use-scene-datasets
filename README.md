@@ -7,8 +7,8 @@
 We provide a set of urban land use scene classification datasets, which includes sample land use scene classification data from four cities in China, and can be used for urban land use classification studies, especially cross-domain classification studies.
 You can [click here](https://drive.google.com/drive/folders/1cjPkFuqMti1yf_q2-4Evps14SmNfapGi?usp=sharing) to get the datasets.
 
-## 1. 数据集详细信息
-该数据集的属性信息如下表所示：
+## 1. Dataset Details
+The attribute information of this datasets is shown in the table below:
 
 |        | Fuzhou | Quanzhou | Zhengzhou | Wuhan |
 | ------ | ------ | -------- | ----------| ----- |
@@ -23,13 +23,8 @@ You can [click here](https://drive.google.com/drive/folders/1cjPkFuqMti1yf_q2-4E
 |Green spaceand entertainment | 186|191|387|53|
 
 
-|  表头   | 表头  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
-
-## 2. 土地利用场景图片示例
-下图展示了该数据集的示例图片。
+## 2. Examples of Land Use Scene Images
+![Examples](./image/examples.png)
 
 ## 3. 数据集文件树
 
